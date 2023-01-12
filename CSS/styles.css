@@ -1,0 +1,29 @@
+/*Tag Selectors*/
+
+body {
+    background-color: #EAFDFC;
+}
+
+hr {
+    border-color: rgb(73, 73, 74);
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 10%;     
+    } 
+
+h1 {
+    color: #2D3434;
+}
+
+h2 {
+    color: #094694;
+}
+
+h3 {
+    color: #094694;
+}
+
+/*Class Selectors*/
+
+/*ID Selectors*/
